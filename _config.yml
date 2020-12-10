@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Amit Puri"
 title_separator          : "-"
 subtitle                 : Technophile by instinct, Developer by heart, Architect by profession, Mentor by passion
-name                     : "Amit Puri"
+name                     : "Blog"
 description              : "amitpuri"
 url                      : amitpuri.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
