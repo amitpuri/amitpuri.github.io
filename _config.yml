@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amit Puri"
+title                    : "Blog"
 title_separator          : "-"
-subtitle                 : Technophile by instinct, Developer by heart, Architect by profession, Mentor by passion
+subtitle                 : 
 name                     : "Blog"
 description              : "amitpuri"
 url                      : amitpuri.com
